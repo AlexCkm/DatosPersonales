@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Datos">
+        <item>Nombre</item>
+        <item>Años</item>
+        <item>Correo electronico</item>
+    </string-array>
+</resources>
